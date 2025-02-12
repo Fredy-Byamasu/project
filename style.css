@@ -2,7 +2,7 @@
 *{
     padding: 0px;
     margin: 0px;  
-}
+} 
 /* header */
 header{
     background-color: rgb(72, 70, 70);
@@ -89,38 +89,6 @@ span{
 
 
 
-
-
-
-
-/* projects */
-
-/* .projects-grid{
-    display: flex;
-    justify-content: space-between;
-}
-.container4{
-    width: 80%;
-    margin: 0px auto;
-    padding: 40px;
-}
-.container4 h2{
-    padding: 20px;
-}
-
-.project-item h3{
-    text-align: center;
-
-}
-
-.project-item img{
-   margin-left: 150px;
-}
-
-.project-item p{
-    text-align: center;
-} */
-
 .container4{
     background-color: rgb(26, 6, 6);
     width: 95%;
@@ -181,3 +149,13 @@ span{
     margin: 0px auto;
     padding: 40px; 
 }
+
+.button[
+    color: rgb(0, 140, 255);
+    text-decoration: none;
+    margin-bottom: 50px;
+    border: 1px solid black;
+    padding: 7px;
+   border-radius: 20px;
+   font-size: 15x;
+]
